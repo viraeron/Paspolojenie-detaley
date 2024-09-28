@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Расположение деталей", "ConsoleApp2\Расположение деталей.csproj", "{FAAC2AE6-3E8E-485A-BE0B-F8112A0E96F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAC2AE6-3E8E-485A-BE0B-F8112A0E96F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAC2AE6-3E8E-485A-BE0B-F8112A0E96F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAC2AE6-3E8E-485A-BE0B-F8112A0E96F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAC2AE6-3E8E-485A-BE0B-F8112A0E96F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801A0848-1B8C-4AA8-B1E2-A951D08F2FCD}
+	EndGlobalSection
+EndGlobal
